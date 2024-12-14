@@ -1,0 +1,28 @@
+h1{
+background-color:palevioletred;
+text-align: center;
+color:gray;
+}
+body{
+background-color: bisque;
+}
+div img {
+width: 20%;
+border: 2px dotted red;
+height: 150px;
+margin:30px;
+animation-name: arafat;
+animation-duration: 1s;
+animation-iteration-count:infinite;
+transform: rotatex(100px);
+
+}
+@keyframes arafat {
+from {
+transform: translatex(100px);
+
+   
+   
+}
+
+}
